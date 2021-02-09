@@ -1,12 +1,11 @@
 # Flight_Controller
  open source flight controller software for Multirotor using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
  
-Current version: 1.3 April 30, 2020
+Current version: 1.4 10 Feb, 2021
 
 Content:
 
 Flight_controller.ino
-scematic.pdf
 
 Revision update:
 =====================================================================================================================================================
@@ -47,3 +46,4 @@ if(acc_x > acc_total_vector){
 Version 1.0 - Jan 3, 2020
 Release
 =====================================================================================================================================================
+this software was is created with the help of brooking. 
