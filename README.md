@@ -1,3 +1,15 @@
+# Quadcopter Build
+<b>Schematic</b>
+![YMFC-3D_scematic](https://user-images.githubusercontent.com/75802334/171931255-70936a6f-4132-4fc5-9cf5-89725974b614.jpg)
+
+<b>Build image</b>
+![20200225_162116](https://user-images.githubusercontent.com/75802334/171933212-71f72d35-43e9-40c5-9601-cf36e4c887a9.jpg)
+
+<b> In Flight image</b>
+![20200225_162311](https://user-images.githubusercontent.com/75802334/171933409-dea94c7c-021c-4496-b334-5072d9fd7477.jpg)
+
+
+
 # Flight_Controller
 Open source flight controller software for Quadcopter using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
  
@@ -28,3 +40,6 @@ if(acc_x > acc_total_vector){
 }
 
 This software is created with the help of brooking.net
+
+
+
