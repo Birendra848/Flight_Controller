@@ -5,14 +5,8 @@
 <br>
 
 <b>Take off and Flight Video</b>
-https://user-images.githubusercontent.com/75802334/171941173-60b2e9ef-f506-4996-898f-9fe8aeb58238.mp4
 
-<br>
-<b>Build image</b>
-<br>
-![20200225_162116](https://user-images.githubusercontent.com/75802334/171933988-e43b156c-e09e-49eb-bfbf-9338c0bec638.jpg)
-<br><b>In flight image</b>
-![20200225_162311](https://user-images.githubusercontent.com/75802334/171941092-c0281f23-66fe-4293-a000-7832406f0772.jpg)
+
 
 
 # Flight_Controller
