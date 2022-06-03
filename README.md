@@ -9,10 +9,8 @@
 
 <br>
 <b> In Flight image</b>
-![20200225_162311](https://user-images.githubusercontent.com/75802334/171934373-9c6e9bf7-9539-4d6a-a652-74862f7b4ac5.jpg)
-<br>
-<b>Takeoff and flight video</b>
-https://user-images.githubusercontent.com/75802334/171939204-8cdbc55e-bf5c-469c-82ae-1fa53e4b5258.mp4
+![20200225_162311](https://user-images.githubusercontent.com/75802334/171940773-c219bfa8-07d3-40c0-b0dd-8f9e8f78263c.jpg)
+
 
 
 
