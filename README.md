@@ -1,26 +1,11 @@
 # Flight_Controller
- open source flight controller software for Multirotor using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
+Open source flight controller software for Quadcopter using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
  
-Current version: 1.4 10 Feb, 2021
+Current version: 1.2 10 Feb, 2021
 
 Content:
 
 Flight_controller.ino
-
-Revision update:
-=====================================================================================================================================================
-
-Version 1.3 April 30, 2020
-The calibration sketch stops working when a character or number is send. When sending a character via the serial monitor of some Arduino IDE’s a line feed is also send. Because the ESC calibration program only expects one character the program stops working.
-
-In the code the line:
-data = Serial.read();                                                               //Read the incomming byte.
-
-Is changed into:
-data = Serial.read();                                                               //Read the incomming byte.
-delay(100);                                                                         //Wait for any other bytes to come in
-while(Serial.available() > 0)loop_counter = Serial.read();                          //Empty the Serial buffer.
-=====================================================================================================================================================
 
 
 Version 1.1 - 12 Feb, 2016
@@ -41,9 +26,5 @@ if(acc_y > acc_total_vector){
 if(acc_x > acc_total_vector){
   angle_roll_acc = asin((float)acc_x/acc_total_vector)* -57.296;            //Calculate the roll angle.
 }
-=====================================================================================================================================================
 
-Version 1.0 - Jan 3, 2020
-Release
-=====================================================================================================================================================
-this software was is created with the help of brooking. 
+This software is created with the help of brooking.net
