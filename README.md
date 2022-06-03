@@ -3,6 +3,9 @@
 <br>
 ![YMFC-3D_scematic](https://user-images.githubusercontent.com/75802334/171931255-70936a6f-4132-4fc5-9cf5-89725974b614.jpg)
 <br>
+<b>Flight controller board (Arduino)</b>
+![IMG_20200203_010100](https://user-images.githubusercontent.com/75802334/171946513-3bfb56f6-90f3-48e3-88d7-d9969e2b9a57.jpg)
+<br><b>Build Image<b><br>![IMG_20200203_010100](https://user-images.githubusercontent.com/75802334/171946827-be213b1f-3f4c-4eab-b061-331ee2b6cdc9.jpg)
 
 <b>Take off and Flight Video</b>
 
