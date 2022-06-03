@@ -8,11 +8,10 @@
 ![20200225_162116](https://user-images.githubusercontent.com/75802334/171933988-e43b156c-e09e-49eb-bfbf-9338c0bec638.jpg)
 
 <br>
-<b> In Flight image</b>
-<br>
+<b> In Flight image</b><br></br>
 ![20200225_162311](https://user-images.githubusercontent.com/75802334/171934373-9c6e9bf7-9539-4d6a-a652-74862f7b4ac5.jpg)
 <br>
-<b>Takeoff and flight video</b><br>
+<b>Takeoff and flight video</b><br></br>
 https://user-images.githubusercontent.com/75802334/171939204-8cdbc55e-bf5c-469c-82ae-1fa53e4b5258.mp4
 
 
