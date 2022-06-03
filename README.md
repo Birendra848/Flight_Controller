@@ -3,12 +3,11 @@
 ![YMFC-3D_scematic](https://user-images.githubusercontent.com/75802334/171931255-70936a6f-4132-4fc5-9cf5-89725974b614.jpg)
 
 <b>Build image</b>
-![20200225_162116](https://user-images.githubusercontent.com/75802334/171933212-71f72d35-43e9-40c5-9601-cf36e4c887a9.jpg)
+![20200225_162116](https://user-images.githubusercontent.com/75802334/171933988-e43b156c-e09e-49eb-bfbf-9338c0bec638.jpg)
+
 
 <b> In Flight image</b>
-![20200225_162311](https://user-images.githubusercontent.com/75802334/171933409-dea94c7c-021c-4496-b334-5072d9fd7477.jpg)
-
-
+![20200225_162311](https://user-images.githubusercontent.com/75802334/171934373-9c6e9bf7-9539-4d6a-a652-74862f7b4ac5.jpg)
 
 # Flight_Controller
 Open source flight controller software for Quadcopter using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
