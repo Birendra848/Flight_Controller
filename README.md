@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/75802334/171943679-0fec2d1e-469c-4859-
 
 
 # Flight_Controller
-Open source flight controller software for Quadcopter using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
+Flight controller software for Quadcopter using Arduino and C++, Implementing PID controller, Interrupts, RC communication Protocols.
  
 Current version: 1.2 10 Feb, 2021
 
